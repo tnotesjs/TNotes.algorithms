@@ -1,20 +1,41 @@
-# c-cpp
+# 🧠 算法与数据结构
 
 <!-- region:toc -->
 
-- [c-cpp](#c-cpp)
-  - [1. 学习环境搭建](#1-学习环境搭建)
+- [🧠 算法与数据结构](#-算法与数据结构)
+  - [1. 学习资源](#1-学习资源)
+  - [2. leetcode](#2-leetcode)
+  - [3. 位运算](#3-位运算)
+  - [4. 树](#4-树)
 
 <!-- endregion:toc -->
 
-## 1. 学习环境搭建
+## 1. 学习资源
 
-- [x] [0001. 在 win11 上搭建 C 的基本学习环境](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0001.%20%E5%9C%A8%20win11%20%E4%B8%8A%E6%90%AD%E5%BB%BA%20C%20%E7%9A%84%E5%9F%BA%E6%9C%AC%E5%AD%A6%E4%B9%A0%E7%8E%AF%E5%A2%83/README.md)
-  - [1. 📒 基础学习环境简介](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0001.%20%E5%9C%A8%20win11%20%E4%B8%8A%E6%90%AD%E5%BB%BA%20C%20%E7%9A%84%E5%9F%BA%E6%9C%AC%E5%AD%A6%E4%B9%A0%E7%8E%AF%E5%A2%83/README.md#1--基础学习环境简介)
-  - [2. 📒 安装 GCC](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0001.%20%E5%9C%A8%20win11%20%E4%B8%8A%E6%90%AD%E5%BB%BA%20C%20%E7%9A%84%E5%9F%BA%E6%9C%AC%E5%AD%A6%E4%B9%A0%E7%8E%AF%E5%A2%83/README.md#2--安装-gcc)
-  - [3. 🤔 安装 GCC 有什么用？](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0001.%20%E5%9C%A8%20win11%20%E4%B8%8A%E6%90%AD%E5%BB%BA%20C%20%E7%9A%84%E5%9F%BA%E6%9C%AC%E5%AD%A6%E4%B9%A0%E7%8E%AF%E5%A2%83/README.md#3--安装-gcc-有什么用)
-  - [4. 📒 安装 VSCode 插件 - Code Runner](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0001.%20%E5%9C%A8%20win11%20%E4%B8%8A%E6%90%AD%E5%BB%BA%20C%20%E7%9A%84%E5%9F%BA%E6%9C%AC%E5%AD%A6%E4%B9%A0%E7%8E%AF%E5%A2%83/README.md#4--安装-vscode-插件---code-runner)
-  - [5. 📒 查看 Code Runner 运行 C、CPP 的基本原理](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0001.%20%E5%9C%A8%20win11%20%E4%B8%8A%E6%90%AD%E5%BB%BA%20C%20%E7%9A%84%E5%9F%BA%E6%9C%AC%E5%AD%A6%E4%B9%A0%E7%8E%AF%E5%A2%83/README.md#5--查看-code-runner-运行-ccpp-的基本原理)
-  - [6. 💻 demos.1 - 第一个 C 语言程序 - 在控制台打印 Hello World](https://github.com/tnotesjs/TNotes.c-cpp/tree/main/notes/0001.%20%E5%9C%A8%20win11%20%E4%B8%8A%E6%90%AD%E5%BB%BA%20C%20%E7%9A%84%E5%9F%BA%E6%9C%AC%E5%AD%A6%E4%B9%A0%E7%8E%AF%E5%A2%83/README.md#6--demos1---第一个-c-语言程序---在控制台打印-hello-world)
-  - 安装好 GCC 和 VSCode 插件 - Code Runner；
-  - 编写一个 Hello World 程序，并理解 Code Runner 快速执行 .c 文件的基本原理；
+- [x] [0001. hello-algo](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0001.%20hello-algo/README.md)
+  - [1. 🫧 评论](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0001.%20hello-algo/README.md#1--评论)
+  - [2. 🤔 对 TNotes.xxx 来说，都有哪些值得学习的阅读体验设计？](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0001.%20hello-algo/README.md#2--对-tnotesxxx-来说都有哪些值得学习的阅读体验设计)
+  - [3. 🔗 引用](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0001.%20hello-algo/README.md#3--引用)
+
+## 2. leetcode
+
+- [ ] [0002. GitHub 技术社区 Doocs 开源项目 leetcode](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0002.%20GitHub%20%E6%8A%80%E6%9C%AF%E7%A4%BE%E5%8C%BA%20Doocs%20%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%20leetcode/README.md)
+  - [1. 📝 概述](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0002.%20GitHub%20%E6%8A%80%E6%9C%AF%E7%A4%BE%E5%8C%BA%20Doocs%20%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%20leetcode/README.md#1--概述)
+- [ ] [0003. leetcode 刷题指南 - 新手快速入门 - 数据结构、算法](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0003.%20leetcode%20%E5%88%B7%E9%A2%98%E6%8C%87%E5%8D%97%20-%20%E6%96%B0%E6%89%8B%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8%20-%20%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E3%80%81%E7%AE%97%E6%B3%95/README.md)
+  - [1. 📒 LeetCode 刷题指南 - 新手快速入门](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0003.%20leetcode%20%E5%88%B7%E9%A2%98%E6%8C%87%E5%8D%97%20-%20%E6%96%B0%E6%89%8B%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8%20-%20%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E3%80%81%E7%AE%97%E6%B3%95/README.md#1--leetcode-刷题指南---新手快速入门)
+  - 通过思维导图的形式，记录了一些适合入门刷的数据结构、算法例题。
+- [x] [0004. 油猴脚本 - LeetCode 题目描述爬取](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0004.%20%E6%B2%B9%E7%8C%B4%E8%84%9A%E6%9C%AC%20-%20LeetCode%20%E9%A2%98%E7%9B%AE%E6%8F%8F%E8%BF%B0%E7%88%AC%E5%8F%96/README.md)
+  - [1. 🫧 评论](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0004.%20%E6%B2%B9%E7%8C%B4%E8%84%9A%E6%9C%AC%20-%20LeetCode%20%E9%A2%98%E7%9B%AE%E6%8F%8F%E8%BF%B0%E7%88%AC%E5%8F%96/README.md#1--评论)
+  - [2. 💻 scripts - 油猴一键复制 Leetcode 题目描述的实现脚本](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0004.%20%E6%B2%B9%E7%8C%B4%E8%84%9A%E6%9C%AC%20-%20LeetCode%20%E9%A2%98%E7%9B%AE%E6%8F%8F%E8%BF%B0%E7%88%AC%E5%8F%96/README.md#2--scripts---油猴一键复制-leetcode-题目描述的实现脚本)
+
+## 3. 位运算
+
+- [ ] [0006. 位运算常用技巧](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0006.%20%E4%BD%8D%E8%BF%90%E7%AE%97%E5%B8%B8%E7%94%A8%E6%8A%80%E5%B7%A7/README.md)
+  - [1. 🫧 评价](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0006.%20%E4%BD%8D%E8%BF%90%E7%AE%97%E5%B8%B8%E7%94%A8%E6%8A%80%E5%B7%A7/README.md#1--评价)
+
+## 4. 树
+
+- [ ] [0005. 二叉树的遍历](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0005.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%81%8D%E5%8E%86/README.md)
+  - [1. 🫧 评价](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0005.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%81%8D%E5%8E%86/README.md#1--评价)
+  - [2. 📒 二叉树的遍历](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0005.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%81%8D%E5%8E%86/README.md#2--二叉树的遍历)
+  - [3. 🔗 引用](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0005.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%81%8D%E5%8E%86/README.md#3--引用)

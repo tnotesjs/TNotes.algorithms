@@ -2,10 +2,10 @@
 layout: home
 
 hero:
-  name: 'C、C++ 笔记'
+  name: '算法与数据结构笔记'
   image:
     src: /logo.png
     alt: TNotes logo
 ---
 
-<SidebarCard />
+<SidebarCard pending />
