@@ -1,21 +1,22 @@
 <script setup>
-import { useData, useRouter } from 'vitepress'
-import { computed, onMounted, ref, watch } from 'vue'
+import { useData } from 'vitepress'
 import { formatDate } from '../utils.js'
+import { ref, computed, onMounted, watch } from 'vue'
+import { useRouter } from 'vitepress'
 
 import {
-  AUTHOR,
   NOTES_DIR_KEY,
   NOTES_VIEW_KEY,
   REPO_NAME,
+  AUTHOR,
   ROOT_ITEM,
 } from '../constants.js'
 
-import icon__card from './icon__card.svg'
 import icon__fold from './icon__fold.svg'
-import icon__folder from './icon__folder.svg'
 import icon__github from './icon__github.svg'
 import icon__vscode from './icon__vscode.svg'
+import icon__card from './icon__card.svg'
+import icon__folder from './icon__folder.svg'
 
 // #region props
 const props = defineProps({
@@ -182,7 +183,6 @@ function extractArticlesWithGroups(
   }
 
   traverse(sidebar)
-  console.log('sidebar', sidebar)
   return { articles, groups }
 }
 
