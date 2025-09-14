@@ -8,11 +8,13 @@
   - [2. 📒 `hello-algo` 简介](https://tnotesjs.github.io/TNotes.algorithms/notes/0001.%20hello-algo/README#2--hello-algo-简介)
   - [3. 🤔 对 TNotes.xxx 来说，都有哪些值得学习的阅读体验设计？](https://tnotesjs.github.io/TNotes.algorithms/notes/0001.%20hello-algo/README#3--对-tnotesxxx-来说都有哪些值得学习的阅读体验设计)
   - [4. 🔗 引用](https://tnotesjs.github.io/TNotes.algorithms/notes/0001.%20hello-algo/README#4--引用)
+- [x] [0002. doocs.leetcode](https://tnotesjs.github.io/TNotes.algorithms/notes/0002.%20doocs.leetcode/README)
+  - [1. 🫧 评价](https://tnotesjs.github.io/TNotes.algorithms/notes/0002.%20doocs.leetcode/README#1--评价)
+  - [2. 🆚 对比 TNotes.leetcode](https://tnotesjs.github.io/TNotes.algorithms/notes/0002.%20doocs.leetcode/README#2--对比-tnotesleetcode)
+  - [3. 🔗 引用](https://tnotesjs.github.io/TNotes.algorithms/notes/0002.%20doocs.leetcode/README#3--引用)
 
 ## 2. leetcode
 
-- [ ] [0002. GitHub 技术社区 Doocs 开源项目 leetcode](https://tnotesjs.github.io/TNotes.algorithms/notes/0002.%20GitHub%20%E6%8A%80%E6%9C%AF%E7%A4%BE%E5%8C%BA%20Doocs%20%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%20leetcode/README)
-  - [1. 📝 概述](https://tnotesjs.github.io/TNotes.algorithms/notes/0002.%20GitHub%20%E6%8A%80%E6%9C%AF%E7%A4%BE%E5%8C%BA%20Doocs%20%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%20leetcode/README#1--概述)
 - [x] [0003. leetcode 刷题指南 - 新手快速入门 - 数据结构、算法](https://tnotesjs.github.io/TNotes.algorithms/notes/0003.%20leetcode%20%E5%88%B7%E9%A2%98%E6%8C%87%E5%8D%97%20-%20%E6%96%B0%E6%89%8B%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8%20-%20%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E3%80%81%E7%AE%97%E6%B3%95/README)
   - [1. 🫧 评价](https://tnotesjs.github.io/TNotes.algorithms/notes/0003.%20leetcode%20%E5%88%B7%E9%A2%98%E6%8C%87%E5%8D%97%20-%20%E6%96%B0%E6%89%8B%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8%20-%20%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E3%80%81%E7%AE%97%E6%B3%95/README#1--评价)
   - [2. 💡 数据结构](https://tnotesjs.github.io/TNotes.algorithms/notes/0003.%20leetcode%20%E5%88%B7%E9%A2%98%E6%8C%87%E5%8D%97%20-%20%E6%96%B0%E6%89%8B%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8%20-%20%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E3%80%81%E7%AE%97%E6%B3%95/README#2--数据结构)
