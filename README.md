@@ -42,6 +42,16 @@
   - [1. 🫧 评价](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0005.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%81%8D%E5%8E%86/README.md#1--评价)
   - [2. 📒 二叉树的遍历](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0005.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%81%8D%E5%8E%86/README.md#2--二叉树的遍历)
   - [3. 🔗 引用](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0005.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%81%8D%E5%8E%86/README.md#3--引用)
+- [x] [0007. Morris 遍历](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0007.%20Morris%20%E9%81%8D%E5%8E%86/README.md)
+  - [1. 🎯 本节内容](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0007.%20Morris%20%E9%81%8D%E5%8E%86/README.md#1--本节内容)
+  - [2. 🫧 评价](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0007.%20Morris%20%E9%81%8D%E5%8E%86/README.md#2--评价)
+  - [3. 📺 bilibili - 【Manim】Morris 中序遍历可视化](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0007.%20Morris%20%E9%81%8D%E5%8E%86/README.md#3--bilibili---manimmorris-中序遍历可视化)
+  - [4. 🧠 Morris 遍历算法及其核心思想](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0007.%20Morris%20%E9%81%8D%E5%8E%86/README.md#4--morris-遍历算法及其核心思想)
+  - [5. 🤔 为什么要使用 Morris 遍历？](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0007.%20Morris%20%E9%81%8D%E5%8E%86/README.md#5--为什么要使用-morris-遍历)
+  - [6. 🆚 Morris 遍历 vs. 递归/迭代遍历](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0007.%20Morris%20%E9%81%8D%E5%8E%86/README.md#6--morris-遍历-vs-递归迭代遍历)
+  - [7. 📒 Morris 中序遍历 (Inorder Traversal) 的实现步骤](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0007.%20Morris%20%E9%81%8D%E5%8E%86/README.md#7--morris-中序遍历-inorder-traversal-的实现步骤)
+  - [8. 🔍 相关 Leetcode 例题](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0007.%20Morris%20%E9%81%8D%E5%8E%86/README.md#8--相关-leetcode-例题)
+  - [9. 🔗 引用](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0007.%20Morris%20%E9%81%8D%E5%8E%86/README.md#9--引用)
 
 ## 5. 油猴脚本
 
