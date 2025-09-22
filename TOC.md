@@ -13,25 +13,39 @@
   - [2. 🆚 对比 TNotes.leetcode](https://tnotesjs.github.io/TNotes.algorithms/notes/0002.%20doocs.leetcode/README#2--对比-tnotesleetcode)
   - [3. 🔗 引用](https://tnotesjs.github.io/TNotes.algorithms/notes/0002.%20doocs.leetcode/README#3--引用)
 
-## 2. 动态规划
+## 2. 刷题平台
+
+- [ ] [0009. 刷题平台 - 概述](https://tnotesjs.github.io/TNotes.algorithms/notes/0009.%20%E5%88%B7%E9%A2%98%E5%B9%B3%E5%8F%B0%20-%20%E6%A6%82%E8%BF%B0/README)
+  - [1. 🎯 本节内容](https://tnotesjs.github.io/TNotes.algorithms/notes/0009.%20%E5%88%B7%E9%A2%98%E5%B9%B3%E5%8F%B0%20-%20%E6%A6%82%E8%BF%B0/README#1--本节内容)
+  - [2. 🫧 评价](https://tnotesjs.github.io/TNotes.algorithms/notes/0009.%20%E5%88%B7%E9%A2%98%E5%B9%B3%E5%8F%B0%20-%20%E6%A6%82%E8%BF%B0/README#2--评价)
+- [x] [0008. leetcode 查看不同语言环境的描述](https://tnotesjs.github.io/TNotes.algorithms/notes/0008.%20leetcode%20%E6%9F%A5%E7%9C%8B%E4%B8%8D%E5%90%8C%E8%AF%AD%E8%A8%80%E7%8E%AF%E5%A2%83%E7%9A%84%E6%8F%8F%E8%BF%B0/README)
+  - [1. 🎯 本节内容](https://tnotesjs.github.io/TNotes.algorithms/notes/0008.%20leetcode%20%E6%9F%A5%E7%9C%8B%E4%B8%8D%E5%90%8C%E8%AF%AD%E8%A8%80%E7%8E%AF%E5%A2%83%E7%9A%84%E6%8F%8F%E8%BF%B0/README#1--本节内容)
+  - [2. 🫧 评价](https://tnotesjs.github.io/TNotes.algorithms/notes/0008.%20leetcode%20%E6%9F%A5%E7%9C%8B%E4%B8%8D%E5%90%8C%E8%AF%AD%E8%A8%80%E7%8E%AF%E5%A2%83%E7%9A%84%E6%8F%8F%E8%BF%B0/README#2--评价)
+  - [3. 🤔 如何在 Leetcode 中查看不同语言环境的描述呢？](https://tnotesjs.github.io/TNotes.algorithms/notes/0008.%20leetcode%20%E6%9F%A5%E7%9C%8B%E4%B8%8D%E5%90%8C%E8%AF%AD%E8%A8%80%E7%8E%AF%E5%A2%83%E7%9A%84%E6%8F%8F%E8%BF%B0/README#3--如何在-leetcode-中查看不同语言环境的描述呢)
+  - [4. 💻 使用内置的数据结构简化题解 - Leetcode - 703. 数据流中的第 K 大元素](https://tnotesjs.github.io/TNotes.algorithms/notes/0008.%20leetcode%20%E6%9F%A5%E7%9C%8B%E4%B8%8D%E5%90%8C%E8%AF%AD%E8%A8%80%E7%8E%AF%E5%A2%83%E7%9A%84%E6%8F%8F%E8%BF%B0/README#4--使用内置的数据结构简化题解---leetcode---703-数据流中的第-k-大元素)
+  - [5. ⚠️ 注意版本问题](https://tnotesjs.github.io/TNotes.algorithms/notes/0008.%20leetcode%20%E6%9F%A5%E7%9C%8B%E4%B8%8D%E5%90%8C%E8%AF%AD%E8%A8%80%E7%8E%AF%E5%A2%83%E7%9A%84%E6%8F%8F%E8%BF%B0/README#5-️-注意版本问题)
+  - [6. 🔗 引用](https://tnotesjs.github.io/TNotes.algorithms/notes/0008.%20leetcode%20%E6%9F%A5%E7%9C%8B%E4%B8%8D%E5%90%8C%E8%AF%AD%E8%A8%80%E7%8E%AF%E5%A2%83%E7%9A%84%E6%8F%8F%E8%BF%B0/README#6--引用)
+
+## 3. 动态规划
 
 - [x] [0003. 动态规划](https://tnotesjs.github.io/TNotes.algorithms/notes/0003.%20%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/README)
   - [1. 🫧 评价](https://tnotesjs.github.io/TNotes.algorithms/notes/0003.%20%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/README#1--评价)
   - [2. 📒 DP 算法思想](https://tnotesjs.github.io/TNotes.algorithms/notes/0003.%20%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/README#2--dp-算法思想)
 
-## 3. 位运算
+## 4. 位运算
 
 - [x] [0006. 位运算常用技巧](https://tnotesjs.github.io/TNotes.algorithms/notes/0006.%20%E4%BD%8D%E8%BF%90%E7%AE%97%E5%B8%B8%E7%94%A8%E6%8A%80%E5%B7%A7/README)
   - [1. 🫧 评价](https://tnotesjs.github.io/TNotes.algorithms/notes/0006.%20%E4%BD%8D%E8%BF%90%E7%AE%97%E5%B8%B8%E7%94%A8%E6%8A%80%E5%B7%A7/README#1--评价)
   - [2. 常用位运算技巧应用](https://tnotesjs.github.io/TNotes.algorithms/notes/0006.%20%E4%BD%8D%E8%BF%90%E7%AE%97%E5%B8%B8%E7%94%A8%E6%8A%80%E5%B7%A7/README#2-常用位运算技巧应用)
   - [3. 🔗 引用](https://tnotesjs.github.io/TNotes.algorithms/notes/0006.%20%E4%BD%8D%E8%BF%90%E7%AE%97%E5%B8%B8%E7%94%A8%E6%8A%80%E5%B7%A7/README#3--引用)
 
-## 4. 树
+## 5. 树
 
 - [ ] [0005. 二叉树的遍历](https://tnotesjs.github.io/TNotes.algorithms/notes/0005.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%81%8D%E5%8E%86/README)
-  - [1. 🫧 评价](https://tnotesjs.github.io/TNotes.algorithms/notes/0005.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%81%8D%E5%8E%86/README#1--评价)
-  - [2. 📒 二叉树的遍历](https://tnotesjs.github.io/TNotes.algorithms/notes/0005.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%81%8D%E5%8E%86/README#2--二叉树的遍历)
-  - [3. 🔗 引用](https://tnotesjs.github.io/TNotes.algorithms/notes/0005.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%81%8D%E5%8E%86/README#3--引用)
+  - [1. 🎯 本节内容](https://tnotesjs.github.io/TNotes.algorithms/notes/0005.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%81%8D%E5%8E%86/README#1--本节内容)
+  - [2. 🫧 评价](https://tnotesjs.github.io/TNotes.algorithms/notes/0005.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%81%8D%E5%8E%86/README#2--评价)
+  - [3. 📒 二叉树的遍历](https://tnotesjs.github.io/TNotes.algorithms/notes/0005.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%81%8D%E5%8E%86/README#3--二叉树的遍历)
+  - [4. 🔗 引用](https://tnotesjs.github.io/TNotes.algorithms/notes/0005.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%81%8D%E5%8E%86/README#4--引用)
 - [x] [0007. Morris 遍历](https://tnotesjs.github.io/TNotes.algorithms/notes/0007.%20Morris%20%E9%81%8D%E5%8E%86/README)
   - [1. 🎯 本节内容](https://tnotesjs.github.io/TNotes.algorithms/notes/0007.%20Morris%20%E9%81%8D%E5%8E%86/README#1--本节内容)
   - [2. 🫧 评价](https://tnotesjs.github.io/TNotes.algorithms/notes/0007.%20Morris%20%E9%81%8D%E5%8E%86/README#2--评价)
@@ -43,7 +57,7 @@
   - [8. 🔍 相关 Leetcode 例题](https://tnotesjs.github.io/TNotes.algorithms/notes/0007.%20Morris%20%E9%81%8D%E5%8E%86/README#8--相关-leetcode-例题)
   - [9. 🔗 引用](https://tnotesjs.github.io/TNotes.algorithms/notes/0007.%20Morris%20%E9%81%8D%E5%8E%86/README#9--引用)
 
-## 5. 油猴脚本
+## 6. 油猴脚本
 
 - [x] [0004. 油猴脚本 - LeetCode 题目描述爬取](https://tnotesjs.github.io/TNotes.algorithms/notes/0004.%20%E6%B2%B9%E7%8C%B4%E8%84%9A%E6%9C%AC%20-%20LeetCode%20%E9%A2%98%E7%9B%AE%E6%8F%8F%E8%BF%B0%E7%88%AC%E5%8F%96/README)
   - [1. 🫧 评论](https://tnotesjs.github.io/TNotes.algorithms/notes/0004.%20%E6%B2%B9%E7%8C%B4%E8%84%9A%E6%9C%AC%20-%20LeetCode%20%E9%A2%98%E7%9B%AE%E6%8F%8F%E8%BF%B0%E7%88%AC%E5%8F%96/README#1--评论)
