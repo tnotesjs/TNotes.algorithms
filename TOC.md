@@ -56,6 +56,19 @@
   - [7. 📒 Morris 中序遍历 (Inorder Traversal) 的实现步骤](https://tnotesjs.github.io/TNotes.algorithms/notes/0007.%20Morris%20%E9%81%8D%E5%8E%86/README#7--morris-中序遍历-inorder-traversal-的实现步骤)
   - [8. 🔍 相关 Leetcode 例题](https://tnotesjs.github.io/TNotes.algorithms/notes/0007.%20Morris%20%E9%81%8D%E5%8E%86/README#8--相关-leetcode-例题)
   - [9. 🔗 引用](https://tnotesjs.github.io/TNotes.algorithms/notes/0007.%20Morris%20%E9%81%8D%E5%8E%86/README#9--引用)
+- [ ] [0010. 堆](https://tnotesjs.github.io/TNotes.algorithms/notes/0010.%20%E5%A0%86/README)
+  - [1. 🎯 本节内容](https://tnotesjs.github.io/TNotes.algorithms/notes/0010.%20%E5%A0%86/README#1--本节内容)
+  - [2. 🫧 评价](https://tnotesjs.github.io/TNotes.algorithms/notes/0010.%20%E5%A0%86/README#2--评价)
+  - [3. 🤔 “堆”是什么？](https://tnotesjs.github.io/TNotes.algorithms/notes/0010.%20%E5%A0%86/README#3--堆是什么)
+  - [4. 🤔 “堆”和“优先队列”有什么关系？](https://tnotesjs.github.io/TNotes.algorithms/notes/0010.%20%E5%A0%86/README#4--堆和优先队列有什么关系)
+  - [5. 🤔 “堆”都有哪些常用操作？](https://tnotesjs.github.io/TNotes.algorithms/notes/0010.%20%E5%A0%86/README#5--堆都有哪些常用操作)
+  - [6. 🤔 如何实现一个“堆”？](https://tnotesjs.github.io/TNotes.algorithms/notes/0010.%20%E5%A0%86/README#6--如何实现一个堆)
+    - [6.1. 堆的存储与表示](https://tnotesjs.github.io/TNotes.algorithms/notes/0010.%20%E5%A0%86/README#61-堆的存储与表示)
+    - [6.2. 访问堆顶元素](https://tnotesjs.github.io/TNotes.algorithms/notes/0010.%20%E5%A0%86/README#62-访问堆顶元素)
+    - [6.3. 元素入堆](https://tnotesjs.github.io/TNotes.algorithms/notes/0010.%20%E5%A0%86/README#63-元素入堆)
+    - [6.4. 堆顶元素出堆](https://tnotesjs.github.io/TNotes.algorithms/notes/0010.%20%E5%A0%86/README#64-堆顶元素出堆)
+  - [7. 🤔 “堆”都有那些常见应用场景？](https://tnotesjs.github.io/TNotes.algorithms/notes/0010.%20%E5%A0%86/README#7--堆都有那些常见应用场景)
+  - [8. 🔗 引用](https://tnotesjs.github.io/TNotes.algorithms/notes/0010.%20%E5%A0%86/README#8--引用)
 
 ## 6. 油猴脚本
 
