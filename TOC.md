@@ -67,8 +67,17 @@
     - [6.2. 访问堆顶元素](https://tnotesjs.github.io/TNotes.algorithms/notes/0010.%20%E5%A0%86/README#62-访问堆顶元素)
     - [6.3. 元素入堆](https://tnotesjs.github.io/TNotes.algorithms/notes/0010.%20%E5%A0%86/README#63-元素入堆)
     - [6.4. 堆顶元素出堆](https://tnotesjs.github.io/TNotes.algorithms/notes/0010.%20%E5%A0%86/README#64-堆顶元素出堆)
-  - [7. 🤔 “堆”都有那些常见应用场景？](https://tnotesjs.github.io/TNotes.algorithms/notes/0010.%20%E5%A0%86/README#7--堆都有那些常见应用场景)
-  - [8. 🔗 引用](https://tnotesjs.github.io/TNotes.algorithms/notes/0010.%20%E5%A0%86/README#8--引用)
+  - [7. 🤔 “建堆操作”是什么？](https://tnotesjs.github.io/TNotes.algorithms/notes/0010.%20%E5%A0%86/README#7--建堆操作是什么)
+  - [8. 🤔 “建堆操作”如何实现？](https://tnotesjs.github.io/TNotes.algorithms/notes/0010.%20%E5%A0%86/README#8--建堆操作如何实现)
+    - [8.1. 方案 1：借助“入堆操作”实现](https://tnotesjs.github.io/TNotes.algorithms/notes/0010.%20%E5%A0%86/README#81-方案-1借助入堆操作实现)
+    - [8.2. 方案 2：通过遍历“堆化”实现](https://tnotesjs.github.io/TNotes.algorithms/notes/0010.%20%E5%A0%86/README#82-方案-2通过遍历堆化实现)
+  - [9. 🤔 “堆”都有那些常见应用场景？](https://tnotesjs.github.io/TNotes.algorithms/notes/0010.%20%E5%A0%86/README#9--堆都有那些常见应用场景)
+  - [10. 🤔 Top-K 问题是？](https://tnotesjs.github.io/TNotes.algorithms/notes/0010.%20%E5%A0%86/README#10--top-k-问题是)
+    - [10.1. 方法一：遍历选择](https://tnotesjs.github.io/TNotes.algorithms/notes/0010.%20%E5%A0%86/README#101-方法一遍历选择)
+    - [10.2. 方法二：排序](https://tnotesjs.github.io/TNotes.algorithms/notes/0010.%20%E5%A0%86/README#102-方法二排序)
+    - [10.3. 方法三：堆](https://tnotesjs.github.io/TNotes.algorithms/notes/0010.%20%E5%A0%86/README#103-方法三堆)
+  - [11. 🎯 完成 Leetcode 703. 数据流中的第 K 大元素](https://tnotesjs.github.io/TNotes.algorithms/notes/0010.%20%E5%A0%86/README#11--完成-leetcode-703-数据流中的第-k-大元素)
+  - [12. 🔗 引用](https://tnotesjs.github.io/TNotes.algorithms/notes/0010.%20%E5%A0%86/README#12--引用)
 
 ## 6. 油猴脚本
 
