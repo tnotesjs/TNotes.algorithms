@@ -56,7 +56,7 @@
   - [7. 📒 Morris 中序遍历 (Inorder Traversal) 的实现步骤](https://tnotesjs.github.io/TNotes.algorithms/notes/0007.%20Morris%20%E9%81%8D%E5%8E%86/README#7--morris-中序遍历-inorder-traversal-的实现步骤)
   - [8. 🔍 相关 Leetcode 例题](https://tnotesjs.github.io/TNotes.algorithms/notes/0007.%20Morris%20%E9%81%8D%E5%8E%86/README#8--相关-leetcode-例题)
   - [9. 🔗 引用](https://tnotesjs.github.io/TNotes.algorithms/notes/0007.%20Morris%20%E9%81%8D%E5%8E%86/README#9--引用)
-- [ ] [0010. 堆](https://tnotesjs.github.io/TNotes.algorithms/notes/0010.%20%E5%A0%86/README)
+- [x] [0010. 堆](https://tnotesjs.github.io/TNotes.algorithms/notes/0010.%20%E5%A0%86/README)
   - [1. 🎯 本节内容](https://tnotesjs.github.io/TNotes.algorithms/notes/0010.%20%E5%A0%86/README#1--本节内容)
   - [2. 🫧 评价](https://tnotesjs.github.io/TNotes.algorithms/notes/0010.%20%E5%A0%86/README#2--评价)
   - [3. 🤔 “堆”是什么？](https://tnotesjs.github.io/TNotes.algorithms/notes/0010.%20%E5%A0%86/README#3--堆是什么)
