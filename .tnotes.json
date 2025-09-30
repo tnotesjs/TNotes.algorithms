@@ -19,11 +19,11 @@
       "src": "https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/assets/icon--algorithms.svg"
     },
     "title": "algorithms",
-    "completed_notes_count": 8,
+    "completed_notes_count": 10,
     "details": "算法与数据结构 笔记",
     "link": "https://tnotesjs.github.io/TNotes.algorithms/",
     "created_at": 1757555213000,
-    "updated_at": 1758890918162,
+    "updated_at": 1759192532487,
     "days_since_birth": 9572
   },
   "port": 9572,

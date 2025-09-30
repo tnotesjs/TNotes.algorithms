@@ -15,9 +15,9 @@
 
 ## 2. 刷题平台
 
-- [ ] [0009. 刷题平台 - 概述](https://tnotesjs.github.io/TNotes.algorithms/notes/0009.%20%E5%88%B7%E9%A2%98%E5%B9%B3%E5%8F%B0%20-%20%E6%A6%82%E8%BF%B0/README)
-  - [1. 🎯 本节内容](https://tnotesjs.github.io/TNotes.algorithms/notes/0009.%20%E5%88%B7%E9%A2%98%E5%B9%B3%E5%8F%B0%20-%20%E6%A6%82%E8%BF%B0/README#1--本节内容)
-  - [2. 🫧 评价](https://tnotesjs.github.io/TNotes.algorithms/notes/0009.%20%E5%88%B7%E9%A2%98%E5%B9%B3%E5%8F%B0%20-%20%E6%A6%82%E8%BF%B0/README#2--评价)
+- [x] [0009. 刷题平台 - 概述](https://tnotesjs.github.io/TNotes.algorithms/notes/0009.%20%E5%88%B7%E9%A2%98%E5%B9%B3%E5%8F%B0%20-%20%E6%A6%82%E8%BF%B0/README)
+  - [1. 🫧 评价](https://tnotesjs.github.io/TNotes.algorithms/notes/0009.%20%E5%88%B7%E9%A2%98%E5%B9%B3%E5%8F%B0%20-%20%E6%A6%82%E8%BF%B0/README#1--评价)
+  - [2. 💡 概述](https://tnotesjs.github.io/TNotes.algorithms/notes/0009.%20%E5%88%B7%E9%A2%98%E5%B9%B3%E5%8F%B0%20-%20%E6%A6%82%E8%BF%B0/README#2--概述)
 - [x] [0008. leetcode 查看不同语言环境的描述](https://tnotesjs.github.io/TNotes.algorithms/notes/0008.%20leetcode%20%E6%9F%A5%E7%9C%8B%E4%B8%8D%E5%90%8C%E8%AF%AD%E8%A8%80%E7%8E%AF%E5%A2%83%E7%9A%84%E6%8F%8F%E8%BF%B0/README)
   - [1. 🎯 本节内容](https://tnotesjs.github.io/TNotes.algorithms/notes/0008.%20leetcode%20%E6%9F%A5%E7%9C%8B%E4%B8%8D%E5%90%8C%E8%AF%AD%E8%A8%80%E7%8E%AF%E5%A2%83%E7%9A%84%E6%8F%8F%E8%BF%B0/README#1--本节内容)
   - [2. 🫧 评价](https://tnotesjs.github.io/TNotes.algorithms/notes/0008.%20leetcode%20%E6%9F%A5%E7%9C%8B%E4%B8%8D%E5%90%8C%E8%AF%AD%E8%A8%80%E7%8E%AF%E5%A2%83%E7%9A%84%E6%8F%8F%E8%BF%B0/README#2--评价)
@@ -84,3 +84,15 @@
 - [x] [0004. 油猴脚本 - LeetCode 题目描述爬取](https://tnotesjs.github.io/TNotes.algorithms/notes/0004.%20%E6%B2%B9%E7%8C%B4%E8%84%9A%E6%9C%AC%20-%20LeetCode%20%E9%A2%98%E7%9B%AE%E6%8F%8F%E8%BF%B0%E7%88%AC%E5%8F%96/README)
   - [1. 🫧 评论](https://tnotesjs.github.io/TNotes.algorithms/notes/0004.%20%E6%B2%B9%E7%8C%B4%E8%84%9A%E6%9C%AC%20-%20LeetCode%20%E9%A2%98%E7%9B%AE%E6%8F%8F%E8%BF%B0%E7%88%AC%E5%8F%96/README#1--评论)
   - [2. 💻 scripts - 油猴一键复制 Leetcode 题目描述的实现脚本](https://tnotesjs.github.io/TNotes.algorithms/notes/0004.%20%E6%B2%B9%E7%8C%B4%E8%84%9A%E6%9C%AC%20-%20LeetCode%20%E9%A2%98%E7%9B%AE%E6%8F%8F%E8%BF%B0%E7%88%AC%E5%8F%96/README#2--scripts---油猴一键复制-leetcode-题目描述的实现脚本)
+
+## 7. 其他
+
+- [x] [0011. 🤖 不同程度的数学水平对应的计算机项目比例](https://tnotesjs.github.io/TNotes.algorithms/notes/0011.%20%F0%9F%A4%96%20%E4%B8%8D%E5%90%8C%E7%A8%8B%E5%BA%A6%E7%9A%84%E6%95%B0%E5%AD%A6%E6%B0%B4%E5%B9%B3%E5%AF%B9%E5%BA%94%E7%9A%84%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%A1%B9%E7%9B%AE%E6%AF%94%E4%BE%8B/README)
+  - [1. 🫧 评价](https://tnotesjs.github.io/TNotes.algorithms/notes/0011.%20%F0%9F%A4%96%20%E4%B8%8D%E5%90%8C%E7%A8%8B%E5%BA%A6%E7%9A%84%E6%95%B0%E5%AD%A6%E6%B0%B4%E5%B9%B3%E5%AF%B9%E5%BA%94%E7%9A%84%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%A1%B9%E7%9B%AE%E6%AF%94%E4%BE%8B/README#1--评价)
+  - [2. 🤔 问题内容](https://tnotesjs.github.io/TNotes.algorithms/notes/0011.%20%F0%9F%A4%96%20%E4%B8%8D%E5%90%8C%E7%A8%8B%E5%BA%A6%E7%9A%84%E6%95%B0%E5%AD%A6%E6%B0%B4%E5%B9%B3%E5%AF%B9%E5%BA%94%E7%9A%84%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%A1%B9%E7%9B%AE%E6%AF%94%E4%BE%8B/README#2--问题内容)
+  - [3. 🤖 ChatGPT 5 👉 70-20-9](https://tnotesjs.github.io/TNotes.algorithms/notes/0011.%20%F0%9F%A4%96%20%E4%B8%8D%E5%90%8C%E7%A8%8B%E5%BA%A6%E7%9A%84%E6%95%B0%E5%AD%A6%E6%B0%B4%E5%B9%B3%E5%AF%B9%E5%BA%94%E7%9A%84%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%A1%B9%E7%9B%AE%E6%AF%94%E4%BE%8B/README#3--chatgpt-5--70-20-9)
+  - [4. 🤖 DeepSeek R1 👉 40-30-30](https://tnotesjs.github.io/TNotes.algorithms/notes/0011.%20%F0%9F%A4%96%20%E4%B8%8D%E5%90%8C%E7%A8%8B%E5%BA%A6%E7%9A%84%E6%95%B0%E5%AD%A6%E6%B0%B4%E5%B9%B3%E5%AF%B9%E5%BA%94%E7%9A%84%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%A1%B9%E7%9B%AE%E6%AF%94%E4%BE%8B/README#4--deepseek-r1--40-30-30)
+  - [5. 🤖 Qwen3-Max 👉 60-25-13](https://tnotesjs.github.io/TNotes.algorithms/notes/0011.%20%F0%9F%A4%96%20%E4%B8%8D%E5%90%8C%E7%A8%8B%E5%BA%A6%E7%9A%84%E6%95%B0%E5%AD%A6%E6%B0%B4%E5%B9%B3%E5%AF%B9%E5%BA%94%E7%9A%84%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%A1%B9%E7%9B%AE%E6%AF%94%E4%BE%8B/README#5--qwen3-max--60-25-13)
+    - [5.1. 估算结果（基于代表性项目抽样与经验判断）](https://tnotesjs.github.io/TNotes.algorithms/notes/0011.%20%F0%9F%A4%96%20%E4%B8%8D%E5%90%8C%E7%A8%8B%E5%BA%A6%E7%9A%84%E6%95%B0%E5%AD%A6%E6%B0%B4%E5%B9%B3%E5%AF%B9%E5%BA%94%E7%9A%84%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%A1%B9%E7%9B%AE%E6%AF%94%E4%BE%8B/README#51-估算结果基于代表性项目抽样与经验判断)
+    - [5.2. 补充说明](https://tnotesjs.github.io/TNotes.algorithms/notes/0011.%20%F0%9F%A4%96%20%E4%B8%8D%E5%90%8C%E7%A8%8B%E5%BA%A6%E7%9A%84%E6%95%B0%E5%AD%A6%E6%B0%B4%E5%B9%B3%E5%AF%B9%E5%BA%94%E7%9A%84%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%A1%B9%E7%9B%AE%E6%AF%94%E4%BE%8B/README#52-补充说明)
+    - [5.3. 结论（表格形式）](https://tnotesjs.github.io/TNotes.algorithms/notes/0011.%20%F0%9F%A4%96%20%E4%B8%8D%E5%90%8C%E7%A8%8B%E5%BA%A6%E7%9A%84%E6%95%B0%E5%AD%A6%E6%B0%B4%E5%B9%B3%E5%AF%B9%E5%BA%94%E7%9A%84%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%A1%B9%E7%9B%AE%E6%AF%94%E4%BE%8B/README#53-结论表格形式)
