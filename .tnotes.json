@@ -4,6 +4,7 @@
   "keywords": [
     "TNotes.algorithms"
   ],
+  "sidebarShowNoteId": false,
   "ignore_dirs": [
     ".vscode",
     "0000",
@@ -23,7 +24,7 @@
     "details": "算法与数据结构 笔记",
     "link": "https://tnotesjs.github.io/TNotes.algorithms/",
     "created_at": 1757555213000,
-    "updated_at": 1759581956591,
+    "updated_at": 1762347222593,
     "days_since_birth": 9572
   },
   "port": 9572,
@@ -66,6 +67,5 @@
       "icon": "github"
     }
   ],
-  "id": "85c487fc-d237-4c50-a6d8-f7f19167b0e1",
-  "sidebarShowNoteId": true
+  "id": "85c487fc-d237-4c50-a6d8-f7f19167b0e1"
 }
