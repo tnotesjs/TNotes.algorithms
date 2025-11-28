@@ -36,6 +36,16 @@
     ]
   },
   {
+    "text": "字符串",
+    "collapsed": true,
+    "items": [
+      {
+        "text": "⏰ KMP 算法",
+        "link": "/notes/0014. KMP 算法/README"
+      }
+    ]
+  },
+  {
     "text": "3. 动态规划",
     "collapsed": true,
     "items": [
@@ -91,10 +101,6 @@
     "text": "其它",
     "collapsed": true,
     "items": [
-      {
-        "text": "⏰ new",
-        "link": "/notes/0014. new/README"
-      },
       {
         "text": "⏰ new",
         "link": "/notes/0015. new/README"

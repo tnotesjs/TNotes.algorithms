@@ -1,6 +1,6 @@
 {
   "bilibili": [],
-  "tnotes": [],
+  "tnotes": ["leetcode/notes/0028"],
   "yuque": [],
   "done": false,
   "deprecated": false,

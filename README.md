@@ -4,6 +4,7 @@
 
 - [1. 学习资料](#1-学习资料)
 - [2. 刷题平台](#2-刷题平台)
+- [字符串](#字符串)
 - [3. 动态规划](#3-动态规划)
 - [4. 位运算](#4-位运算)
 - [5. 树](#5-树)
@@ -23,6 +24,10 @@
 - [x] [0009. 刷题平台](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0009.%20%E5%88%B7%E9%A2%98%E5%B9%B3%E5%8F%B0/README.md)
 - [x] [0008. leetcode 查看不同语言环境的描述](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0008.%20leetcode%20%E6%9F%A5%E7%9C%8B%E4%B8%8D%E5%90%8C%E8%AF%AD%E8%A8%80%E7%8E%AF%E5%A2%83%E7%9A%84%E6%8F%8F%E8%BF%B0/README.md)
 - [x] [0004. 油猴脚本 - LeetCode 题目描述爬取](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0004.%20%E6%B2%B9%E7%8C%B4%E8%84%9A%E6%9C%AC%20-%20LeetCode%20%E9%A2%98%E7%9B%AE%E6%8F%8F%E8%BF%B0%E7%88%AC%E5%8F%96/README.md)
+
+## 字符串
+
+- [ ] [0014. KMP 算法](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0014.%20KMP%20%E7%AE%97%E6%B3%95/README.md)
 
 ## 3. 动态规划
 
@@ -45,7 +50,6 @@
 
 ## 其它
 
-- [ ] [0014. new](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0014.%20new/README.md)
 - [ ] [0015. new](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0015.%20new/README.md)
 - [ ] [0016. new](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0016.%20new/README.md)
 - [ ] [0017. new](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0017.%20new/README.md)
