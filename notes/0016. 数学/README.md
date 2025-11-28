@@ -1,4 +1,4 @@
-# [0016. new](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0016.%20new)
+# [0016. 数学](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0016.%20%E6%95%B0%E5%AD%A6)
 
 <!-- region:toc -->
 

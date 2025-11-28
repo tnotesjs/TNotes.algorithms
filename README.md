@@ -27,6 +27,7 @@
 
 ## 3. 字符串
 
+- [ ] [0015. 字符串](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0015.%20%E5%AD%97%E7%AC%A6%E4%B8%B2/README.md)
 - [ ] [0014. KMP 算法](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0014.%20KMP%20%E7%AE%97%E6%B3%95/README.md)
 
 ## 4. 动态规划
@@ -36,24 +37,23 @@
 
 ## 5. 位运算
 
+- [ ] [0018. 位运算](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0018.%20%E4%BD%8D%E8%BF%90%E7%AE%97/README.md)
 - [x] [0006. 位运算常用技巧](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0006.%20%E4%BD%8D%E8%BF%90%E7%AE%97%E5%B8%B8%E7%94%A8%E6%8A%80%E5%B7%A7/README.md)
 
 ## 6. 树
 
+- [ ] [0017. 树](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0017.%20%E6%A0%91/README.md)
 - [ ] [0005. 二叉树的遍历](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0005.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%81%8D%E5%8E%86/README.md)
 - [x] [0007. Morris 遍历](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0007.%20Morris%20%E9%81%8D%E5%8E%86/README.md)
 - [x] [0010. 堆](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0010.%20%E5%A0%86/README.md)
 
 ## 7. 数学
 
+- [ ] [0016. 数学](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0016.%20%E6%95%B0%E5%AD%A6/README.md)
 - [x] [0011. 不同数学水平覆盖的项目比例](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0011.%20%E4%B8%8D%E5%90%8C%E6%95%B0%E5%AD%A6%E6%B0%B4%E5%B9%B3%E8%A6%86%E7%9B%96%E7%9A%84%E9%A1%B9%E7%9B%AE%E6%AF%94%E4%BE%8B/README.md)
 
 ## 其它
 
-- [ ] [0015. new](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0015.%20new/README.md)
-- [ ] [0016. new](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0016.%20new/README.md)
-- [ ] [0017. new](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0017.%20new/README.md)
-- [ ] [0018. new](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0018.%20new/README.md)
 - [ ] [0019. new](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0019.%20new/README.md)
 - [ ] [0020. new](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0020.%20new/README.md)
 - [ ] [0021. new](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0021.%20new/README.md)

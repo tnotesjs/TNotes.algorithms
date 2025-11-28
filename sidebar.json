@@ -40,13 +40,17 @@
     "collapsed": true,
     "items": [
       {
+        "text": "⏰ 字符串",
+        "link": "/notes/0015. 字符串/README"
+      },
+      {
         "text": "⏰ KMP 算法",
         "link": "/notes/0014. KMP 算法/README"
       }
     ]
   },
   {
-    "text": "3. 动态规划",
+    "text": "4. 动态规划",
     "collapsed": true,
     "items": [
       {
@@ -60,9 +64,13 @@
     ]
   },
   {
-    "text": "4. 位运算",
+    "text": "5. 位运算",
     "collapsed": true,
     "items": [
+      {
+        "text": "⏰ 位运算",
+        "link": "/notes/0018. 位运算/README"
+      },
       {
         "text": "✅ 位运算常用技巧",
         "link": "/notes/0006. 位运算常用技巧/README"
@@ -70,9 +78,13 @@
     ]
   },
   {
-    "text": "5. 树",
+    "text": "6. 树",
     "collapsed": true,
     "items": [
+      {
+        "text": "⏰ 树",
+        "link": "/notes/0017. 树/README"
+      },
       {
         "text": "⏰ 二叉树的遍历",
         "link": "/notes/0005. 二叉树的遍历/README"
@@ -92,6 +104,10 @@
     "collapsed": true,
     "items": [
       {
+        "text": "⏰ 数学",
+        "link": "/notes/0016. 数学/README"
+      },
+      {
         "text": "✅ 不同数学水平覆盖的项目比例",
         "link": "/notes/0011. 不同数学水平覆盖的项目比例/README"
       }
@@ -101,22 +117,6 @@
     "text": "其它",
     "collapsed": true,
     "items": [
-      {
-        "text": "⏰ new",
-        "link": "/notes/0015. new/README"
-      },
-      {
-        "text": "⏰ new",
-        "link": "/notes/0016. new/README"
-      },
-      {
-        "text": "⏰ new",
-        "link": "/notes/0017. new/README"
-      },
-      {
-        "text": "⏰ new",
-        "link": "/notes/0018. new/README"
-      },
       {
         "text": "⏰ new",
         "link": "/notes/0019. new/README"
