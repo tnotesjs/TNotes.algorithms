@@ -2,30 +2,36 @@
 
 <!-- region:toc -->
 
-::: details 📚 相关资源
-
-- [📒 TNotes（相关知识库）](https://tnotesjs.github.io/TNotes/)
-  - [TNotes.leetcode/notes/0028](https://tnotesjs.github.io/TNotes.leetcode/notes/0028/)
-
-:::
-
 - [1. 🎯 本节内容](#1--本节内容)
 - [2. 🫧 评价](#2--评价)
 - [3. 🤔 KMP 是什么？](#3--kmp-是什么)
 - [4. 🤔 KMP 算法的基本思想是什么？](#4--kmp-算法的基本思想是什么)
 - [5. 🤖 kmp 算法是中国计算机考研常考的知识点吗？](#5--kmp-算法是中国计算机考研常考的知识点吗)
   - [5.1. 常考形式包括：](#51-常考形式包括)
-- [6. 🔍 相关 LeetCode 例题](#6--相关-leetcode-例题)
+- [6. 🔍 相关 LeetCode 例题 - `28. 实现 strStr()`](#6--相关-leetcode-例题---28-实现-strstr)
+  - [6.1. 📝 题目描述](#61--题目描述)
+  - [6.2. 解法 1：暴力解法](#62-解法-1暴力解法)
+  - [6.3. 解法 2：KMP](#63-解法-2kmp)
+    - [核心步骤](#核心步骤)
+    - [🤔 “最大相同前缀”是什么意思？](#-最大相同前缀是什么意思)
+    - [初始化 next 数组](#初始化-next-数组)
+    - [查找匹配项](#查找匹配项)
+- [7. 🔗 引用](#7--引用)
 
 <!-- endregion:toc -->
 
 ## 1. 🎯 本节内容
 
-- todo
+- KMP 算法简介
+- LeetCode 例题 - `28. 实现 strStr()`
 
 ## 2. 🫧 评价
 
-- todo
+KMP 算法的核心：构建 next 数组。
+
+通过对比 LeetCode 例题 - `28. 实现 strStr()` 的两种解法（暴力解法 vs. KMP 算法）来认识 KMP 算法的核心优化点（失配的时候无需暴力重头来过，会依据 next 数组记录的值来决定下次的开始匹配位置）。
+
+学习一个短语 -> Find needle in haystack 大海捞针。
 
 ## 3. 🤔 KMP 是什么？
 
@@ -70,6 +76,178 @@ KMP 算法的关键组件【关键在于理解匹配过程】
 
 需要我帮你梳理 KMP 的核心推导逻辑或典型真题示例吗？
 
-## 6. 🔍 相关 LeetCode 例题
+## 6. 🔍 相关 LeetCode 例题 - `28. 实现 strStr()`
 
-- [28. 实现 strStr()](https://leetcode.cn/problems/implement-strstr/)
+### 6.1. 📝 题目描述
+
+- [leetcode](https://leetcode.cn/problems/find-the-index-of-the-first-occurrence-in-a-string/)
+
+给你两个字符串 `haystack` 和 `needle` ，请你在 `haystack` 字符串中找出 `needle` 字符串的第一个匹配项的下标（下标从 0 开始）。如果 `needle` 不是 `haystack` 的一部分，则返回 `-1`。
+
+示例 1：
+
+```txt
+输入：haystack = "sadbutsad", needle = "sad"
+输出：0
+解释："sad" 在下标 0 和 6 处匹配。
+第一个匹配项的下标是 0 ，所以返回 0 。
+```
+
+示例 2：
+
+```txt
+输入：haystack = "leetcode", needle = "leeto"
+输出：-1
+解释："leeto" 没有在 "leetcode" 中出现，所以返回 -1 。
+```
+
+提示：
+
+- `1 <= haystack.length, needle.length <= 10^4`
+- `haystack` 和 `needle` 仅由小写英文字符组成
+
+### 6.2. 解法 1：暴力解法
+
+```js
+/**
+ * @param {string} haystack
+ * @param {string} needle
+ * @return {number}
+ */
+var strStr = function (haystack, needle) {
+  const n = haystack.length
+  const m = needle.length
+
+  if (m === 0) return 0 // 特殊情况处理：空字符串
+
+  for (let i = 0; i <= n - m; i++) {
+    // 外层循环遍历主串
+    let match = true
+    for (let j = 0; j < m; j++) {
+      // 内层循环检查子串是否匹配
+      if (haystack[i + j] !== needle[j]) {
+        match = false
+        break
+      }
+    }
+    if (match) return i // 如果匹配成功，返回起始索引
+  }
+
+  return -1 // 如果没有找到匹配的子串，返回 -1
+}
+```
+
+- 时间复杂度：$O(n \times m)$，其中 n 是 haystack 的长度，m 是 needle 的长度
+- 空间复杂度：$O(1)$，只使用了常数级别的额外空间
+
+双层循环暴力匹配。外层遍历主串，内层逐字符比较子串，一旦不匹配就从主串的下一位重新开始匹配。
+
+### 6.3. 解法 2：KMP
+
+```js
+/**
+ * @param {string} haystack
+ * @param {string} needle
+ * @return {number}
+ */
+var strStr = function (haystack, needle) {
+  const n = haystack.length,
+    m = needle.length
+
+  if (m === 0) return 0
+
+  // 初始化 next
+  const next = new Array(m).fill(0)
+  for (let i = 1, j = 0; i < m; i++) {
+    while (j > 0 && needle[j] !== needle[i]) j = next[j - 1] // j 收缩
+    if (needle[i] === needle[j]) j++ // j 扩散
+    next[i] = j // 更新 next[i]
+  }
+
+  // 查找匹配项
+  for (let i = 0, j = 0; i < n; i++) {
+    while (j > 0 && needle[j] !== haystack[i]) j = next[j - 1]
+    if (haystack[i] === needle[j]) j++
+    if (j === m) return i - m + 1
+  }
+
+  return -1
+}
+```
+
+- 时间复杂度：$O(n + m)$，其中 n 是 haystack 的长度，m 是 needle 的长度，构建 next 数组需要 $O(m)$，匹配过程需要 $O(n)$
+- 空间复杂度：$O(m)$，需要额外的 next 数组存储模式串的前缀信息
+
+KMP 算法通过预处理模式串构建 next 数组记录最大相同前后缀长度，匹配失败时根据 next 数组智能移动模式串指针，避免重复比较，将时间复杂度优化到线性。
+
+这种写法对 s.2 的暴力匹配做了优化，如果发现不匹配的情况，不会暴力地直接回溯到子串的开头位置，而是根据 next 中记录的索引来决定当本次匹配失败时，下次匹配开始的位置应该是哪。理解 next 是理解 KMP 算法的关键。
+
+#### 核心步骤
+
+- 步骤 1. 初始化 next 数组：这部分代码构建了 PMT（或称 next 数组）。通过遍历模式串，计算每个位置的 最大相同前后缀长度，从而指导后续匹配时如何移动模式串。
+- 步骤 2. 匹配过程：使用两个指针 i 和 j 分别遍历主串和模式串。当字符匹配时，两个指针都向前移动；如果不匹配，模式串指针 j 会根据 next 数组进行调整，以尝试新的匹配位置。如果模式串完全匹配，则返回匹配的起始位置。
+
+步骤 1、2 的实现流程是 KMP 算法的核心，它们的实现逻辑是非常类似的。
+
+#### 🤔 “最大相同前缀”是什么意思？
+
+- `next[i] = xxx` 表示位置 i 的最大相同前后缀长度是 `xxx`。
+- 示例：`needle = "sad"` 对应的 next 数组为 `[0, 0, 0]`。
+- 示例：`leeto` 对应的 next 数组为 `[0, 0, 0, 0, 0]`。
+- 示例：`needle = "ababca"` 对应的 next 数组为 `[0, 0, 1, 2, 0, 1]`。
+  - ![img](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2024-11-17-12-17-38.png)
+- 官方提供的示例：
+  - ![img](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2024-11-17-12-27-49.png)
+
+#### 初始化 next 数组
+
+```js
+const next = new Array(m).fill(0)
+for (let i = 1, j = 0; i < m; i++) {
+  while (j > 0 && needle[j] !== needle[i]) j = next[j - 1]
+  if (needle[i] === needle[j]) j++
+  next[i] = j
+}
+```
+
+- m 表示子串 needle 的长度。
+- i 表示子串 needle 的第几个位置。
+- j 是一个辅助变量，用于记录子串的当前位置失配时，需要回退到哪里。
+- `const next = new Array(m).fill(0);` next 数组中存放的成员，表示的含义是如果在匹配过程中，如果子串的某个位置失配了，那么需要根据 next 来决定下次匹配的开始位置，所以在初始化的时候，需要根据子串的长度来初始化。
+- `for (let i = 1, j = 0; i < m; i++) { ... }`
+  - 循环初始语句：
+    - `let i = 1` 如果第一个位置就失配了，不用纠结，直接从头开始，所以不需要去管 `next[0]` 的值，它肯定得是 `0`。
+    - `j = 0` 辅助变量 j 默认从 0 开始走。
+  - 循环条件：
+    - `i < m` 根据子串的长度来决定外层循环的次数，每次循环决定一个当前的 `next[i]` 的值。
+  - 循环体：
+    - 失配 - 收缩：`while (j > 0 && needle[j] !== needle[i]) j = next[j - 1]` 失配，`j` 回退到 `next[j - 1]` 的位置。
+    - 匹配 - 扩散：`if (needle[i] === needle[j]) j++` 匹配，j 向后移动一位。
+    - 更新 next：`next[i] = j` 将 j 的值赋给 `next[i]`。
+      - next 记录后续【查找匹配项】的流程中，当子串的 `j` 位置失配 `needle[j] !== haystack[i]` 时，指针 `j` 应该回溯到的位置是 `next[j - 1]`。
+
+#### 查找匹配项
+
+```js
+for (let i = 0, j = 0; i < n; i++) {
+  while (j > 0 && needle[j] !== haystack[i]) j = next[j - 1]
+  if (haystack[i] === needle[j]) j++
+  if (j === m) return i - m + 1
+}
+```
+
+- i 表示匹配到了主串 haystack 的第几个位置。
+- m 表示子串 needle 的长度。
+- j 表示当前匹配到了子串 needle 的第几个位置。
+- `while (j > 0 && needle[j] !== haystack[i]) j = next[j - 1]` 失配，`j` 回退到 `next[j - 1]` 的位置。
+- `if (haystack[i] === needle[j]) j++` 匹配，j 向后移动一位。
+- `if (j === m) return i - m + 1` 一旦条件成立，表示在主串中找到了满足条件的连续子串，将匹配的起始位置返回。
+
+## 7. 🔗 引用
+
+- [参考 solutions - 【宫水三叶】简单题学 KMP 算法][1]
+- [哔哩哔哩 - 最浅显易懂的 KMP 算法讲解][2]
+  - 理解 next 数组（next 数组有什么用？如何构建 next 数组？）是 KMP 算法的核心，可以多看看视屏中的动画演示。
+
+[1]: https://leetcode.cn/problems/find-the-index-of-the-first-occurrence-in-a-string/solutions/575568/shua-chuan-lc-shuang-bai-po-su-jie-fa-km-tb86/
+[2]: https://www.bilibili.com/video/BV1AY4y157yL/?spm_id_from=333.337.search-card.all.click&vd_source=f8873530fc00410ea3fbec0d4b875972
