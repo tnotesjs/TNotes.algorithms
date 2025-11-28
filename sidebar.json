@@ -1,8 +1,12 @@
 [
   {
-    "text": "1. 学习资源",
+    "text": "1. 学习资料",
     "collapsed": true,
     "items": [
+      {
+        "text": "✅ 学习资料",
+        "link": "/notes/0012. 学习资料/README"
+      },
       {
         "text": "✅ hello-algo",
         "link": "/notes/0001. hello-algo/README"
@@ -18,12 +22,16 @@
     "collapsed": true,
     "items": [
       {
-        "text": "✅ 刷题平台 - 概述",
-        "link": "/notes/0009. 刷题平台 - 概述/README"
+        "text": "✅ 刷题平台",
+        "link": "/notes/0009. 刷题平台/README"
       },
       {
         "text": "✅ leetcode 查看不同语言环境的描述",
         "link": "/notes/0008. leetcode 查看不同语言环境的描述/README"
+      },
+      {
+        "text": "✅ 油猴脚本 - LeetCode 题目描述爬取",
+        "link": "/notes/0004. 油猴脚本 - LeetCode 题目描述爬取/README"
       }
     ]
   },
@@ -34,6 +42,10 @@
       {
         "text": "✅ 动态规划",
         "link": "/notes/0003. 动态规划/README"
+      },
+      {
+        "text": "⏰ DP 算法思想",
+        "link": "/notes/0013. DP 算法思想/README"
       }
     ]
   },
@@ -66,22 +78,50 @@
     ]
   },
   {
-    "text": "6. 油猴脚本",
+    "text": "7. 数学",
     "collapsed": true,
     "items": [
       {
-        "text": "✅ 油猴脚本 - LeetCode 题目描述爬取",
-        "link": "/notes/0004. 油猴脚本 - LeetCode 题目描述爬取/README"
+        "text": "✅ 不同数学水平覆盖的项目比例",
+        "link": "/notes/0011. 不同数学水平覆盖的项目比例/README"
       }
     ]
   },
   {
-    "text": "7. 其他",
+    "text": "其它",
     "collapsed": true,
     "items": [
       {
-        "text": "✅ 🤖 不同程度的数学水平对应的计算机项目比例",
-        "link": "/notes/0011. 🤖 不同程度的数学水平对应的计算机项目比例/README"
+        "text": "⏰ new",
+        "link": "/notes/0014. new/README"
+      },
+      {
+        "text": "⏰ new",
+        "link": "/notes/0015. new/README"
+      },
+      {
+        "text": "⏰ new",
+        "link": "/notes/0016. new/README"
+      },
+      {
+        "text": "⏰ new",
+        "link": "/notes/0017. new/README"
+      },
+      {
+        "text": "⏰ new",
+        "link": "/notes/0018. new/README"
+      },
+      {
+        "text": "⏰ new",
+        "link": "/notes/0019. new/README"
+      },
+      {
+        "text": "⏰ new",
+        "link": "/notes/0020. new/README"
+      },
+      {
+        "text": "⏰ new",
+        "link": "/notes/0021. new/README"
       }
     ]
   }

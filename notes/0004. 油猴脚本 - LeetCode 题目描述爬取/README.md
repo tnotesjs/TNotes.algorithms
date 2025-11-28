@@ -9,9 +9,11 @@
 
 ## 1. 🫧 评论
 
-- 该油猴脚本用于从 LeetCode 网站上抓取题目描述并转换成 Markdown 格式，方便用户复制使用。
-- 脚本通过添加在右键菜单中注入一个能一键复制 LeetCode 题目描述为 markdown 文本的菜单项。
-- 复制的 markdown 内容适配 TNotes.leetcode 中的题目描述格式。在 TNotes.leetcode 中的相关 LeetCode 例题的 `📝 题目描述` 部分，就是通过这个脚本来获取的。
+该油猴脚本用于从 LeetCode 网站上抓取题目描述并转换成 Markdown 格式，方便用户复制使用。
+
+脚本通过添加在右键菜单中注入一个能一键复制 LeetCode 题目描述为 markdown 文本的菜单项。
+
+复制的 markdown 内容适配 TNotes.leetcode 中的题目描述格式。在 TNotes.leetcode 中的相关 LeetCode 例题的 `📝 题目描述` 部分，就是通过这个脚本来获取的。
 
 ## 2. 💻 scripts - 油猴一键复制 Leetcode 题目描述的实现脚本
 

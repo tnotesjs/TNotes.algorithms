@@ -11,17 +11,21 @@
 
 ## 1. 🫧 评论
 
-- 质量就不多说了，看 star 数量（100k ↑）就晓得了。
-- 阅读体验做得很不错，有很多值得学习的点，可以学习学习，在 TNotes.xxx 中也实现类似的效果。
+质量就不多说了，看 star 数量（100k ↑）就晓得了。
+
+阅读体验做得很不错，有很多值得学习的点，可以学习学习，在 TNotes.xxx 中也实现类似的效果。
 
 ## 2. 📒 `hello-algo` 简介
 
-- [hello 算法 github 仓库][1]
-  - 截止目前（25.08）：`116K star`
-  - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。
-  - 支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。
-- 主要内容
-  - ![图 0](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-09-11-10-11-55.png)
+[hello 算法 github 仓库][1]
+
+- 截止目前（25.08）：`116K star`
+- 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。
+- 支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。
+
+主要内容：
+
+![图 0](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-09-11-10-11-55.png)
 
 ## 3. 🤔 对 TNotes.xxx 来说，都有哪些值得学习的阅读体验设计？
 

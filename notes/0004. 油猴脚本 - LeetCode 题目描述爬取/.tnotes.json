@@ -5,8 +5,8 @@
   "done": true,
   "deprecated": false,
   "enableDiscussions": true,
-  "description": "",
+  "description": "该油猴脚本用于从 LeetCode 网站上抓取题目描述并转换成 Markdown 格式，TNotes.leetcode 中的所有例题的 md 格式，就是通过这个脚本解析而来的。",
   "id": "4dfb6761-9c27-47a1-9d85-51ea27a54a32",
   "created_at": 1757558402000,
-  "updated_at": 1759192532428
+  "updated_at": 1764289033579
 }
