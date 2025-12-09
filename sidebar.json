@@ -100,7 +100,17 @@
     ]
   },
   {
-    "text": "7. 数学",
+    "text": "7. 链表",
+    "collapsed": true,
+    "items": [
+      {
+        "text": "✅ Floyd 判圈算法",
+        "link": "/notes/0019. Floyd 判圈算法/README"
+      }
+    ]
+  },
+  {
+    "text": "8. 数学",
     "collapsed": true,
     "items": [
       {
@@ -117,10 +127,6 @@
     "text": "其它",
     "collapsed": true,
     "items": [
-      {
-        "text": "⏰ Floyd 判圈算法",
-        "link": "/notes/0019. Floyd 判圈算法/README"
-      },
       {
         "text": "⏰ new",
         "link": "/notes/0020. new/README"
