@@ -54,6 +54,6 @@
 
 ## 其它
 
-- [ ] [0019. new](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0019.%20new/README.md)
+- [ ] [0019. Floyd 判圈算法](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0019.%20Floyd%20%E5%88%A4%E5%9C%88%E7%AE%97%E6%B3%95/README.md)
 - [ ] [0020. new](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0020.%20new/README.md)
 - [ ] [0021. new](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0021.%20new/README.md)

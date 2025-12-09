@@ -21,7 +21,7 @@
 
 ## 3. 🤔 如何在 Leetcode 中查看不同语言环境的描述呢？
 
-- 在左上角的代码选择下拉列表中，语言选项的右侧有一个叹号 icon，点击这个 icon 即可查看官方对该语言执行环境的相关描述。
+在左上角的代码选择下拉列表中，语言选项的右侧有一个叹号 icon，点击这个 icon 即可查看官方对该语言执行环境的相关描述。
 
 ::: swiper
 
@@ -33,8 +33,9 @@
 
 ## 4. 💻 使用内置的数据结构简化题解 - Leetcode - 703. 数据流中的第 K 大元素
 
-- 以 JavaScript 为例，我们可以直接使用 [datastructures-js][2] 内置的 [MinPriorityQueue][4] 最小优先队列的写法完成这题 [Leetcode - 703. 数据流中的第 K 大元素][3]。
-  - 因为在 JavaScript 的执行环境描述中，官方说了可以使用 [datastructures-js][2] 中所提供的数据类型。
+以 JavaScript 为例，我们可以直接使用 [datastructures-js][2] 内置的 [MinPriorityQueue][4] 最小优先队列的写法完成这题 [Leetcode - 703. 数据流中的第 K 大元素][3]。
+
+因为在 JavaScript 的执行环境描述中，官方说了可以使用 [datastructures-js][2] 中所提供的数据类型。
 
 ::: code-group
 

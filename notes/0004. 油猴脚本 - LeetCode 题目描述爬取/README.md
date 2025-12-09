@@ -2,12 +2,17 @@
 
 <!-- region:toc -->
 
-- [1. 🫧 评论](#1--评论)
-- [2. 💻 scripts - 油猴一键复制 Leetcode 题目描述的实现脚本](#2--scripts---油猴一键复制-leetcode-题目描述的实现脚本)
+- [1. 🎯 本节内容](#1--本节内容)
+- [2. 🫧 评论](#2--评论)
+- [3. 💻 scripts - 油猴一键复制 Leetcode 题目描述的实现脚本](#3--scripts---油猴一键复制-leetcode-题目描述的实现脚本)
 
 <!-- endregion:toc -->
 
-## 1. 🫧 评论
+## 1. 🎯 本节内容
+
+- 介绍一个爬取 LeetCode 题目描述的油猴脚本
+
+## 2. 🫧 评论
 
 该油猴脚本用于从 LeetCode 网站上抓取题目描述并转换成 Markdown 格式，方便用户复制使用。
 
@@ -15,7 +20,7 @@
 
 复制的 markdown 内容适配 TNotes.leetcode 中的题目描述格式。在 TNotes.leetcode 中的相关 LeetCode 例题的 `📝 题目描述` 部分，就是通过这个脚本来获取的。
 
-## 2. 💻 scripts - 油猴一键复制 Leetcode 题目描述的实现脚本
+## 3. 💻 scripts - 油猴一键复制 Leetcode 题目描述的实现脚本
 
 ::: code-group
 

@@ -2,19 +2,24 @@
 
 <!-- region:toc -->
 
-- [1. 🫧 评价](#1--评价)
-- [2. 🆚 对比 TNotes.leetcode](#2--对比-tnotesleetcode)
-- [3. 🔗 引用](#3--引用)
+- [1. 🎯 本节内容](#1--本节内容)
+- [2. 🫧 评价](#2--评价)
+- [3. 🆚 对比 TNotes.leetcode](#3--对比-tnotesleetcode)
+- [4. 🔗 引用](#4--引用)
 
 <!-- endregion:toc -->
 
-## 1. 🫧 评价
+## 1. 🎯 本节内容
+
+- github 开源项目 doocs/leetcode 简介
+
+## 2. 🫧 评价
 
 [doocs/leetcode][2] 是一个很好的 Leetcode 资源站点，里边儿基本上将 Leetcode 上所有的例题都做了汇总、分类，目前（25.09）star 数 `34.9k`。
 
 ![图 0](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-09-14-11-51-54.png)
 
-## 2. 🆚 对比 TNotes.leetcode
+## 3. 🆚 对比 TNotes.leetcode
 
 [doocs/leetcode][2] 和自己目前正在写的 [TNotes.leetcode][1] 非常像，前者更规范内容更全面，后者更适合用于做刷题笔记。
 
@@ -34,7 +39,7 @@
 | 发布方式 | 需要 PR 和审核 | 可自主决定发布时间及内容 |
 | 社区认可度 | 高（已建立统一规范） | 无（尚未形成统一规范） |
 
-## 3. 🔗 引用
+## 4. 🔗 引用
 
 - [GitHub 技术社区 Doocs][1]
 - [doocs/leetcode][2]
