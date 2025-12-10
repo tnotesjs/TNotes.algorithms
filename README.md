@@ -5,12 +5,12 @@
 - [1. 学习资料](#1-学习资料)
 - [2. 刷题平台](#2-刷题平台)
 - [3. 字符串](#3-字符串)
-- [4. 动态规划](#4-动态规划)
-- [5. 位运算](#5-位运算)
-- [6. 树](#6-树)
-- [7. 链表](#7-链表)
+- [4. 链表](#4-链表)
+- [5. 树](#5-树)
+- [6. 位运算](#6-位运算)
+- [7. 基于子问题分解的算法](#7-基于子问题分解的算法)
 - [8. 数学](#8-数学)
-- [其它](#其它)
+- [9. 其它](#9-其它)
 
 <!-- endregion:toc -->
 
@@ -31,33 +31,42 @@
 - [ ] [0015. 字符串](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0015.%20%E5%AD%97%E7%AC%A6%E4%B8%B2/README.md)
 - [ ] [0014. KMP 算法](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0014.%20KMP%20%E7%AE%97%E6%B3%95/README.md)
 
-## 4. 动态规划
+## 4. 链表
 
-- [x] [0003. 动态规划](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0003.%20%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/README.md)
-- [ ] [0013. DP 算法思想](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0013.%20DP%20%E7%AE%97%E6%B3%95%E6%80%9D%E6%83%B3/README.md)
+- [x] [0019. Floyd 判圈算法](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0019.%20Floyd%20%E5%88%A4%E5%9C%88%E7%AE%97%E6%B3%95/README.md)
 
-## 5. 位运算
-
-- [ ] [0018. 位运算](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0018.%20%E4%BD%8D%E8%BF%90%E7%AE%97/README.md)
-- [x] [0006. 位运算常用技巧](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0006.%20%E4%BD%8D%E8%BF%90%E7%AE%97%E5%B8%B8%E7%94%A8%E6%8A%80%E5%B7%A7/README.md)
-
-## 6. 树
+## 5. 树
 
 - [ ] [0017. 树](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0017.%20%E6%A0%91/README.md)
 - [ ] [0005. 二叉树的遍历](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0005.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%81%8D%E5%8E%86/README.md)
 - [x] [0007. Morris 遍历](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0007.%20Morris%20%E9%81%8D%E5%8E%86/README.md)
 - [x] [0010. 堆](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0010.%20%E5%A0%86/README.md)
 
-## 7. 链表
+## 6. 位运算
 
-- [x] [0019. Floyd 判圈算法](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0019.%20Floyd%20%E5%88%A4%E5%9C%88%E7%AE%97%E6%B3%95/README.md)
+- [ ] [0018. 位运算](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0018.%20%E4%BD%8D%E8%BF%90%E7%AE%97/README.md)
+- [x] [0006. 位运算常用技巧](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0006.%20%E4%BD%8D%E8%BF%90%E7%AE%97%E5%B8%B8%E7%94%A8%E6%8A%80%E5%B7%A7/README.md)
+
+## 7. 基于子问题分解的算法
+
+- [ ] [0020. 分治算法](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0020.%20%E5%88%86%E6%B2%BB%E7%AE%97%E6%B3%95/README.md)
+- [x] [0003. 动态规划算法](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0003.%20%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%E7%AE%97%E6%B3%95/README.md)
+- [x] [0021. 分治 vs 动态规划](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0021.%20%E5%88%86%E6%B2%BB%20vs%20%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/README.md)
 
 ## 8. 数学
 
 - [ ] [0016. 数学](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0016.%20%E6%95%B0%E5%AD%A6/README.md)
 - [x] [0011. 不同数学水平覆盖的项目比例](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0011.%20%E4%B8%8D%E5%90%8C%E6%95%B0%E5%AD%A6%E6%B0%B4%E5%B9%B3%E8%A6%86%E7%9B%96%E7%9A%84%E9%A1%B9%E7%9B%AE%E6%AF%94%E4%BE%8B/README.md)
 
-## 其它
+## 9. 其它
 
-- [ ] [0020. new](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0020.%20new/README.md)
-- [ ] [0021. new](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0021.%20new/README.md)
+- [ ] [0013. new](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0013.%20new/README.md)
+- [ ] [0022. new](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0022.%20new/README.md)
+- [ ] [0023. new](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0023.%20new/README.md)
+- [ ] [0024. new](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0024.%20new/README.md)
+- [ ] [0025. new](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0025.%20new/README.md)
+- [ ] [0026. new](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0026.%20new/README.md)
+- [ ] [0027. new](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0027.%20new/README.md)
+- [ ] [0028. new](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0028.%20new/README.md)
+- [ ] [0029. new](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0029.%20new/README.md)
+- [ ] [0030. new](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0030.%20new/README.md)

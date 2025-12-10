@@ -50,35 +50,17 @@
     ]
   },
   {
-    "text": "4. 动态规划",
+    "text": "4. 链表",
     "collapsed": true,
     "items": [
       {
-        "text": "✅ 动态规划",
-        "link": "/notes/0003. 动态规划/README"
-      },
-      {
-        "text": "⏰ DP 算法思想",
-        "link": "/notes/0013. DP 算法思想/README"
+        "text": "✅ Floyd 判圈算法",
+        "link": "/notes/0019. Floyd 判圈算法/README"
       }
     ]
   },
   {
-    "text": "5. 位运算",
-    "collapsed": true,
-    "items": [
-      {
-        "text": "⏰ 位运算",
-        "link": "/notes/0018. 位运算/README"
-      },
-      {
-        "text": "✅ 位运算常用技巧",
-        "link": "/notes/0006. 位运算常用技巧/README"
-      }
-    ]
-  },
-  {
-    "text": "6. 树",
+    "text": "5. 树",
     "collapsed": true,
     "items": [
       {
@@ -100,12 +82,34 @@
     ]
   },
   {
-    "text": "7. 链表",
+    "text": "6. 位运算",
     "collapsed": true,
     "items": [
       {
-        "text": "✅ Floyd 判圈算法",
-        "link": "/notes/0019. Floyd 判圈算法/README"
+        "text": "⏰ 位运算",
+        "link": "/notes/0018. 位运算/README"
+      },
+      {
+        "text": "✅ 位运算常用技巧",
+        "link": "/notes/0006. 位运算常用技巧/README"
+      }
+    ]
+  },
+  {
+    "text": "7. 基于子问题分解的算法",
+    "collapsed": true,
+    "items": [
+      {
+        "text": "⏰ 分治算法",
+        "link": "/notes/0020. 分治算法/README"
+      },
+      {
+        "text": "✅ 动态规划算法",
+        "link": "/notes/0003. 动态规划算法/README"
+      },
+      {
+        "text": "✅ 分治 vs 动态规划",
+        "link": "/notes/0021. 分治 vs 动态规划/README"
       }
     ]
   },
@@ -124,16 +128,48 @@
     ]
   },
   {
-    "text": "其它",
+    "text": "9. 其它",
     "collapsed": true,
     "items": [
       {
         "text": "⏰ new",
-        "link": "/notes/0020. new/README"
+        "link": "/notes/0013. new/README"
       },
       {
         "text": "⏰ new",
-        "link": "/notes/0021. new/README"
+        "link": "/notes/0022. new/README"
+      },
+      {
+        "text": "⏰ new",
+        "link": "/notes/0023. new/README"
+      },
+      {
+        "text": "⏰ new",
+        "link": "/notes/0024. new/README"
+      },
+      {
+        "text": "⏰ new",
+        "link": "/notes/0025. new/README"
+      },
+      {
+        "text": "⏰ new",
+        "link": "/notes/0026. new/README"
+      },
+      {
+        "text": "⏰ new",
+        "link": "/notes/0027. new/README"
+      },
+      {
+        "text": "⏰ new",
+        "link": "/notes/0028. new/README"
+      },
+      {
+        "text": "⏰ new",
+        "link": "/notes/0029. new/README"
+      },
+      {
+        "text": "⏰ new",
+        "link": "/notes/0030. new/README"
       }
     ]
   }
