@@ -3,7 +3,6 @@
   "tnotes": [],
   "yuque": [],
   "done": true,
-  "deprecated": false,
   "enableDiscussions": true,
   "description": "在切换语言选项的右侧有一个 ! 叹号，点击即可查看官方对该语言执行环境的描述，以便了解到都注入了哪些模块。",
   "id": "4f40c6ae-95ef-4a4f-8379-974bc4d1e8bf",
