@@ -2,7 +2,7 @@
 
 <!-- region:toc -->
 
-- [1. 学习资料](#1-学习资料)
+- [1. TNotes.algorithms](#1-tnotesalgorithms)
 - [2. 刷题平台](#2-刷题平台)
 - [3. 字符串](#3-字符串)
 - [4. 链表](#4-链表)
@@ -14,8 +14,9 @@
 
 <!-- endregion:toc -->
 
-## 1. 学习资料
+## 1. TNotes.algorithms
 
+- [ ] [0013. TNotes.algorithms](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0013.%20TNotes.algorithms/README.md)
 - [x] [0012. 学习资料](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0012.%20%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/README.md)
 - [x] [0001. hello-algo](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0001.%20hello-algo/README.md)
 - [x] [0002. doocs.leetcode](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0002.%20doocs.leetcode/README.md)
@@ -60,7 +61,6 @@
 
 ## 9. 其它
 
-- [ ] [0013. new](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0013.%20new/README.md)
 - [ ] [0022. new](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0022.%20new/README.md)
 - [ ] [0023. new](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0023.%20new/README.md)
 - [ ] [0024. new](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0024.%20new/README.md)

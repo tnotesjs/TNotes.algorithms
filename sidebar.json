@@ -1,8 +1,12 @@
 [
   {
-    "text": "1. 学习资料",
+    "text": "1. TNotes.algorithms",
     "collapsed": true,
     "items": [
+      {
+        "text": "⏰ TNotes.algorithms",
+        "link": "/notes/0013. TNotes.algorithms/README"
+      },
       {
         "text": "✅ 学习资料",
         "link": "/notes/0012. 学习资料/README"
@@ -131,10 +135,6 @@
     "text": "9. 其它",
     "collapsed": true,
     "items": [
-      {
-        "text": "⏰ new",
-        "link": "/notes/0013. new/README"
-      },
       {
         "text": "⏰ new",
         "link": "/notes/0022. new/README"
