@@ -4,9 +4,15 @@
     "collapsed": true,
     "items": [
       {
-        "text": "⏰ TNotes.algorithms",
+        "text": "✅ TNotes.algorithms",
         "link": "/notes/0013. TNotes.algorithms/README"
-      },
+      }
+    ]
+  },
+  {
+    "text": "2. 学习资料",
+    "collapsed": true,
+    "items": [
       {
         "text": "✅ 学习资料",
         "link": "/notes/0012. 学习资料/README"
@@ -22,7 +28,7 @@
     ]
   },
   {
-    "text": "2. 刷题平台",
+    "text": "3. 刷题平台",
     "collapsed": true,
     "items": [
       {
@@ -40,7 +46,7 @@
     ]
   },
   {
-    "text": "3. 字符串",
+    "text": "4. 字符串",
     "collapsed": true,
     "items": [
       {
@@ -54,7 +60,7 @@
     ]
   },
   {
-    "text": "4. 链表",
+    "text": "5. 链表",
     "collapsed": true,
     "items": [
       {
@@ -64,7 +70,7 @@
     ]
   },
   {
-    "text": "5. 树",
+    "text": "6. 树",
     "collapsed": true,
     "items": [
       {
@@ -86,7 +92,7 @@
     ]
   },
   {
-    "text": "6. 位运算",
+    "text": "7. 位运算",
     "collapsed": true,
     "items": [
       {
@@ -100,7 +106,7 @@
     ]
   },
   {
-    "text": "7. 基于子问题分解的算法",
+    "text": "8. 基于子问题分解的算法",
     "collapsed": true,
     "items": [
       {
@@ -118,7 +124,7 @@
     ]
   },
   {
-    "text": "8. 数学",
+    "text": "9. 数学",
     "collapsed": true,
     "items": [
       {
@@ -128,17 +134,17 @@
       {
         "text": "✅ 不同数学水平覆盖的项目比例",
         "link": "/notes/0011. 不同数学水平覆盖的项目比例/README"
+      },
+      {
+        "text": "⏰ 向上取整的不同写法",
+        "link": "/notes/0022. 向上取整的不同写法/README"
       }
     ]
   },
   {
-    "text": "9. 其它",
+    "text": "10. 其它",
     "collapsed": true,
     "items": [
-      {
-        "text": "⏰ new",
-        "link": "/notes/0022. new/README"
-      },
       {
         "text": "⏰ new",
         "link": "/notes/0023. new/README"

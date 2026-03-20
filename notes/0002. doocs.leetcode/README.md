@@ -4,7 +4,7 @@
 
 - [1. 🎯 本节内容](#1--本节内容)
 - [2. 🫧 评价](#2--评价)
-- [3. 🆚 对比 TNotes.leetcode](#3--对比-tnotesleetcode)
+- [3. 🆚 `doocs/leetcode` vs `TNotes.leetcode`](#3--doocsleetcode-vs-tnotesleetcode)
 - [4. 🔗 引用](#4--引用)
 
 <!-- endregion:toc -->
@@ -19,7 +19,7 @@
 
 ![图 0](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-09-14-11-51-54.png)
 
-## 3. 🆚 对比 TNotes.leetcode
+## 3. 🆚 `doocs/leetcode` vs `TNotes.leetcode`
 
 [doocs/leetcode][2] 和自己目前正在写的 [TNotes.leetcode][1] 非常像，前者更规范内容更全面，后者更适合用于做刷题笔记。
 
@@ -34,22 +34,19 @@
 | 题解结构 | 先提供解法说明，再提供源码 | 先提供源码，再提供解法说明 |
 | 技术栈 | 未查 | 基于 Vitepress 实现 |
 | 题解维护方式 | 直接将题解源码插入 markdown 中 | 可通过 `<<< ./solutions/1/1.js` 方式引入源码，修改源码文件即可 |
-| 项目性质 | 开源社区项目 | 个人学习笔记知识库 |
+| 项目性质 | 开源社区项目 | 开源社区项目 |
 | 灵活性 | 需要遵循已形成的统一规范 | 高度灵活，可自定义组件和体验 |
 | 发布方式 | 需要 PR 和审核 | 可自主决定发布时间及内容 |
 | 社区认可度 | 高（已建立统一规范） | 无（尚未形成统一规范） |
 
 ## 4. 🔗 引用
 
-- [GitHub 技术社区 Doocs][1]
-- [doocs/leetcode][2]
-  - github 项目仓库地址
-  - 简介：🔥 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
-  - 评价：leetcode 上的相关例题，大多都可以在这个开源项目中找到。包括 leetcode 题库中的 3k 多道题，往期竞赛例题、《剑指 Offer》例题等等。
+- [GitHub 技术社区 Doocs - github][1]
+- [doocs/leetcode - github][2]
 - [doocs/leetcode - 在线阅读 LeetCode 全解][3]
-- [TNotes.leetcode][4]
+- [TNotes.leetcode - github][4]
 
 [1]: https://github.com/doocs
 [2]: https://github.com/doocs/leetcode
 [3]: https://doocs.github.io/leetcode/lc/1/
-[4]: https://tnotesjs.github.io/TNotes.leetcode/
+[4]: https://github.com/tnotesjs/TNotes.leetcode/
