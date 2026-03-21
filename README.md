@@ -38,6 +38,7 @@
 
 ## 5. 链表
 
+- [ ] [0023. 链表](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0023.%20%E9%93%BE%E8%A1%A8/README.md)
 - [x] [0019. Floyd 判圈算法](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0019.%20Floyd%20%E5%88%A4%E5%9C%88%E7%AE%97%E6%B3%95/README.md)
 
 ## 6. 树
@@ -62,11 +63,10 @@
 
 - [ ] [0016. 数学](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0016.%20%E6%95%B0%E5%AD%A6/README.md)
 - [x] [0011. 不同数学水平覆盖的项目比例](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0011.%20%E4%B8%8D%E5%90%8C%E6%95%B0%E5%AD%A6%E6%B0%B4%E5%B9%B3%E8%A6%86%E7%9B%96%E7%9A%84%E9%A1%B9%E7%9B%AE%E6%AF%94%E4%BE%8B/README.md)
-- [ ] [0022. 向上取整的不同写法](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0022.%20%E5%90%91%E4%B8%8A%E5%8F%96%E6%95%B4%E7%9A%84%E4%B8%8D%E5%90%8C%E5%86%99%E6%B3%95/README.md)
+- [x] [0022. 向上取整的不同写法](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0022.%20%E5%90%91%E4%B8%8A%E5%8F%96%E6%95%B4%E7%9A%84%E4%B8%8D%E5%90%8C%E5%86%99%E6%B3%95/README.md)
 
 ## 10. 其它
 
-- [ ] [0023. new](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0023.%20new/README.md)
 - [ ] [0024. new](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0024.%20new/README.md)
 - [ ] [0025. new](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0025.%20new/README.md)
 - [ ] [0026. new](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0026.%20new/README.md)

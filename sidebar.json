@@ -64,6 +64,10 @@
     "collapsed": true,
     "items": [
       {
+        "text": "⏰ 链表",
+        "link": "/notes/0023. 链表/README"
+      },
+      {
         "text": "✅ Floyd 判圈算法",
         "link": "/notes/0019. Floyd 判圈算法/README"
       }
@@ -136,7 +140,7 @@
         "link": "/notes/0011. 不同数学水平覆盖的项目比例/README"
       },
       {
-        "text": "⏰ 向上取整的不同写法",
+        "text": "✅ 向上取整的不同写法",
         "link": "/notes/0022. 向上取整的不同写法/README"
       }
     ]
@@ -145,10 +149,6 @@
     "text": "10. 其它",
     "collapsed": true,
     "items": [
-      {
-        "text": "⏰ new",
-        "link": "/notes/0023. new/README"
-      },
       {
         "text": "⏰ new",
         "link": "/notes/0024. new/README"
