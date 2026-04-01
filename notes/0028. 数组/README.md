@@ -1,4 +1,4 @@
-# [0026. new](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0026.%20new)
+# [0028. 数组](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0028.%20%E6%95%B0%E7%BB%84)
 
 <!-- region:toc -->
 

@@ -46,21 +46,47 @@
     ]
   },
   {
-    "text": "4. 字符串",
+    "text": "4. 初识算法",
     "collapsed": true,
     "items": [
       {
-        "text": "⏰ 字符串",
-        "link": "/notes/0015. 字符串/README"
-      },
-      {
-        "text": "⏰ KMP 算法",
-        "link": "/notes/0014. KMP 算法/README"
+        "text": "⏰ 初识算法",
+        "link": "/notes/0025. 初识算法/README"
       }
     ]
   },
   {
-    "text": "5. 链表",
+    "text": "5. 复杂度分析",
+    "collapsed": true,
+    "items": [
+      {
+        "text": "⏰ 复杂度分析",
+        "link": "/notes/0026. 复杂度分析/README"
+      }
+    ]
+  },
+  {
+    "text": "6. 数据结构",
+    "collapsed": true,
+    "items": [
+      {
+        "text": "⏰ 数据结构",
+        "link": "/notes/0027. 数据结构/README"
+      }
+    ]
+  },
+  {
+    "text": "7. 数组",
+    "collapsed": true,
+    "items": [
+      {
+        "text": "⏰ 数组",
+        "link": "/notes/0028. 数组/README"
+      }
+    ]
+  },
+  {
+    "text": "8. 链表",
     "collapsed": true,
     "items": [
       {
@@ -74,7 +100,51 @@
     ]
   },
   {
-    "text": "6. 树",
+    "text": "9. 字符串",
+    "collapsed": true,
+    "items": [
+      {
+        "text": "⏰ 字符串",
+        "link": "/notes/0015. 字符串/README"
+      },
+      {
+        "text": "⏰ KMP 算法",
+        "link": "/notes/0014. KMP 算法/README"
+      }
+    ]
+  },
+  {
+    "text": "10. 栈",
+    "collapsed": true,
+    "items": [
+      {
+        "text": "⏰ 栈",
+        "link": "/notes/0029. 栈/README"
+      }
+    ]
+  },
+  {
+    "text": "11. 队列",
+    "collapsed": true,
+    "items": [
+      {
+        "text": "⏰ 队列",
+        "link": "/notes/0030. 队列/README"
+      }
+    ]
+  },
+  {
+    "text": "12. 哈希表",
+    "collapsed": true,
+    "items": [
+      {
+        "text": "⏰ 哈希表",
+        "link": "/notes/0036. 哈希表/README"
+      }
+    ]
+  },
+  {
+    "text": "13. 树",
     "collapsed": true,
     "items": [
       {
@@ -88,7 +158,13 @@
       {
         "text": "✅ Morris 遍历",
         "link": "/notes/0007. Morris 遍历/README"
-      },
+      }
+    ]
+  },
+  {
+    "text": "14. 堆",
+    "collapsed": true,
+    "items": [
       {
         "text": "✅ 堆",
         "link": "/notes/0010. 堆/README"
@@ -96,7 +172,81 @@
     ]
   },
   {
-    "text": "7. 位运算",
+    "text": "15. 图",
+    "collapsed": true,
+    "items": [
+      {
+        "text": "⏰ 图",
+        "link": "/notes/0031. 图/README"
+      }
+    ]
+  },
+  {
+    "text": "16. 搜索",
+    "collapsed": true,
+    "items": [
+      {
+        "text": "⏰ 搜索",
+        "link": "/notes/0032. 搜索/README"
+      }
+    ]
+  },
+  {
+    "text": "17. 排序",
+    "collapsed": true,
+    "items": [
+      {
+        "text": "⏰ 排序",
+        "link": "/notes/0033. 排序/README"
+      }
+    ]
+  },
+  {
+    "text": "18. 分治",
+    "collapsed": true,
+    "items": [
+      {
+        "text": "⏰ 分治算法",
+        "link": "/notes/0020. 分治算法/README"
+      }
+    ]
+  },
+  {
+    "text": "19. 回溯",
+    "collapsed": true,
+    "items": [
+      {
+        "text": "⏰ 回溯",
+        "link": "/notes/0034. 回溯/README"
+      }
+    ]
+  },
+  {
+    "text": "20. 动态规划算法",
+    "collapsed": true,
+    "items": [
+      {
+        "text": "✅ 动态规划算法",
+        "link": "/notes/0003. 动态规划算法/README"
+      },
+      {
+        "text": "✅ 分治 vs 动态规划",
+        "link": "/notes/0021. 分治 vs 动态规划/README"
+      }
+    ]
+  },
+  {
+    "text": "21. 贪心",
+    "collapsed": true,
+    "items": [
+      {
+        "text": "⏰ 贪心",
+        "link": "/notes/0035. 贪心/README"
+      }
+    ]
+  },
+  {
+    "text": "22. 位运算",
     "collapsed": true,
     "items": [
       {
@@ -110,25 +260,7 @@
     ]
   },
   {
-    "text": "8. 基于子问题分解的算法",
-    "collapsed": true,
-    "items": [
-      {
-        "text": "⏰ 分治算法",
-        "link": "/notes/0020. 分治算法/README"
-      },
-      {
-        "text": "✅ 动态规划算法",
-        "link": "/notes/0003. 动态规划算法/README"
-      },
-      {
-        "text": "✅ 分治 vs 动态规划",
-        "link": "/notes/0021. 分治 vs 动态规划/README"
-      }
-    ]
-  },
-  {
-    "text": "9. 数学",
+    "text": "23. 数学",
     "collapsed": true,
     "items": [
       {
@@ -146,36 +278,28 @@
     ]
   },
   {
-    "text": "10. 其它",
+    "text": "24. 其它",
     "collapsed": true,
     "items": [
       {
-        "text": "⏰ new",
-        "link": "/notes/0024. new/README"
+        "text": "⏰ 基于子问题分解的算法",
+        "link": "/notes/0024. 基于子问题分解的算法/README"
       },
       {
         "text": "⏰ new",
-        "link": "/notes/0025. new/README"
+        "link": "/notes/0037. new/README"
       },
       {
         "text": "⏰ new",
-        "link": "/notes/0026. new/README"
+        "link": "/notes/0038. new/README"
       },
       {
         "text": "⏰ new",
-        "link": "/notes/0027. new/README"
+        "link": "/notes/0039. new/README"
       },
       {
         "text": "⏰ new",
-        "link": "/notes/0028. new/README"
-      },
-      {
-        "text": "⏰ new",
-        "link": "/notes/0029. new/README"
-      },
-      {
-        "text": "⏰ new",
-        "link": "/notes/0030. new/README"
+        "link": "/notes/0040. new/README"
       }
     ]
   }
