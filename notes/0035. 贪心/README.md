@@ -1,4 +1,4 @@
-# [0035. 哈希表](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0035.%20%E5%93%88%E5%B8%8C%E8%A1%A8)
+# [0035. 贪心](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0035.%20%E8%B4%AA%E5%BF%83)
 
 <!-- region:toc -->
 
