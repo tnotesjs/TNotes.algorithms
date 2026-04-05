@@ -111,7 +111,7 @@
 
 ## 19. 回溯
 
-- [ ] [0034. 回溯](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0034.%20%E5%9B%9E%E6%BA%AF/README.md)
+- [x] [0034. 回溯](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0034.%20%E5%9B%9E%E6%BA%AF/README.md)
 
 ## 20. 动态规划算法
 
