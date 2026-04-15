@@ -69,7 +69,7 @@
 ## 9. 字符串
 
 - [ ] [0015. 字符串](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0015.%20%E5%AD%97%E7%AC%A6%E4%B8%B2/README.md)
-- [ ] [0014. KMP 算法](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0014.%20KMP%20%E7%AE%97%E6%B3%95/README.md)
+- [x] [0014. KMP 算法](https://github.com/tnotesjs/TNotes.algorithms/tree/main/notes/0014.%20KMP%20%E7%AE%97%E6%B3%95/README.md)
 
 ## 10. 栈
 
