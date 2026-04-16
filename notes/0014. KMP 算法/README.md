@@ -160,7 +160,7 @@ class Solution:
 
 - 先为 needle 构建 next 数组，`next[i]` 表示子串 `needle[0...i]` 的最长相等真前后缀长度
 - 匹配时同时扫描 haystack 和 needle，字符相等就让两个指针一起前进
-- 如果发生失配，不回退 haystack 指针，而是利用 next 数组把 needle 指针跳到上一个可复用的位置
+- 如果发生失配，不是直接暴力回退 haystack 指针到位置 0，而是利用 next 数组把 needle 指针跳到上一个可复用的位置
 - 当 needle 指针走到长度 $m$ 时，说明已经找到完整匹配，起始下标就是当前下标减去 $m - 1$
 
 #### 核心步骤
