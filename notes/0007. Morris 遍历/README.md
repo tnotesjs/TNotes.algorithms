@@ -295,7 +295,6 @@ Morris 前序遍历
 
 - [94. 二叉树的中序遍历【简单】][4]
 - [99. 恢复二叉搜索树【中等】][5]
-- [230. 二叉搜索树中第 K 小的元素【中等】][6]
 - [501. 二叉搜索树中的众数【简单】][3]
 
 ## 14. 小结
@@ -329,11 +328,9 @@ Morris 遍历就是：利用二叉树中原本为空的右指针，临时建立�
 - [leetcode - 501. 二叉搜索树中的众数][3]
 - [leetcode - 94. 二叉树的中序遍历][4]
 - [leetcode - 99. 恢复二叉搜索树][5]
-- [leetcode - 230. 二叉搜索树中第 K 小的元素][6]
 
 [1]: https://www.bilibili.com/video/BV17H4y1p7DD/
 [2]: https://zhuanlan.zhihu.com/p/101321696
 [3]: https://leetcode.cn/problems/find-mode-in-binary-search-tree/description/
 [4]: https://leetcode.cn/problems/binary-tree-inorder-traversal/
 [5]: https://leetcode.cn/problems/recover-binary-search-tree/
-[6]: https://leetcode.cn/problems/kth-smallest-element-in-a-bst/
