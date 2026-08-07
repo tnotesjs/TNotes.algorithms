@@ -4,7 +4,6 @@
     "tn:build": "                       tnotes --build",
     "tn:create-notes": "                tnotes --create-notes",
     "tn:dev": "                         tnotes --dev",
-    "tn:fix-timestamps": "              tnotes --fix-timestamps",
     "tn:help": "                        tnotes --help",
     "tn:preview": "                     tnotes --preview",
     "tn:pull": "                        tnotes --pull",
