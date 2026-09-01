@@ -44,7 +44,7 @@ Morris 遍历的的核心思想是：临时修改二叉树的空右指针，让�
 
 ## 3. bilibili：【Manim】Morris 中序遍历可视化（UP：RocksLi）
 
-<B id="BV17H4y1p7DD" />
+<BilibiliVideo id="BV17H4y1p7DD" />
 
 ![img](https://cdn.jsdelivr.net/gh/tnotesjs/imgs-2026@main/2026-06-24-07-32-08.png)
 
