@@ -13,5 +13,11 @@
     "enabled": true
   },
   "discussions": true,
-  "id": "8946fa2c-bb3d-413c-be92-c821eee37054"
+  "id": "8946fa2c-bb3d-413c-be92-c821eee37054",
+  "push": {
+    "runUpdateBefore": true
+  },
+  "markdown": {
+    "lineBreaks": "visual"
+  }
 }
